@@ -1,0 +1,13 @@
+Literature Cited
+
+Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. arXiv preprint arXiv:1901.08688.
+
+Brownlee, J. How to Develop Convolutional Neural Network Models for Time Series Forecasting. Machine Learning Mastery. Available at: https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/.
+
+Dougherty, G. Pattern Recognition and Classification: An Introduction. Springer, 2012.
+
+Eliot, D. Deep Learning with PyTorch Step-by-Step: A Beginner's Guide, Volume I: Fundamentals. Self-published, 2020.
+
+YOLOv8 Documentation. Available at: https://docs.ultralytics.com/models/yolov8/.
+
+Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics YOLOv8. Available at: https://github.com/ultralytics/ultralytics.
