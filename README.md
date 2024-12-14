@@ -1,7 +1,7 @@
 # Capstone - Convolutional Neural Network by Ian Ryan
 <p>Welcome to My Fall 2024 Capstone Project Advised by Dr. Soltys.</p>
 
-<p>The objective of this semester-long project was to create a Convolutional Neural Network (CNN) from scratch, rather than using pre-trained models like ResNet-18. After developing a satisfactory classification model, the next goal was to adapt it into an object detection model by implementing YOLOv8.</p>
+<p>The objective of this semester-long project was to create a Convolutional Neural Network (CNN) using PyTorch by scratch, rather than using pre-trained models like ResNet-18. After developing a satisfactory classification model, the next goal was to adapt it into an object detection model by implementing YOLOv8.</p>
 
 <p>Although my primary interest was detecting humans, I chose to create a multiclass model to avoid building a simple perceptron. To up the ante, I also made the dataset that the model was trained on an imbalanced dataset. Developing my own model presented a challenging learning opportunity and helped strengthen my understanding of CNN fundamentals for computer vision, a field in which I aspire to build a career.</p>
 
