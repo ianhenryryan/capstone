@@ -1,4 +1,4 @@
-# Capstone - Convolutional Neural Network (CNN) by Ian Ryan
+# Capstone - Convolutional Neural Network by Ian Ryan
 <p>Welcome to My Fall 2024 Capstone Project Advised by Dr. Soltys.</p>
 
 <p>The objective of this semester-long project was to create a Convolutional Neural Network (CNN) from scratch, rather than using pre-trained models like ResNet-18. After developing a satisfactory classification model, the next goal was to adapt it into an object detection model by implementing YOLOv8.</p>
