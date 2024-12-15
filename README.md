@@ -46,7 +46,6 @@
           <li>Pathing (Jump here after Libraries & Imports if using own dataset and not combining into imbalanced set.)
             <ul>
               <li>Normalize File Extensions</li>
-              <li>Combo Transforms Train Valid Test</li>
               <li>Extensive Pathing Checking</li>
             </ul>
           </li>
@@ -105,12 +104,12 @@
 
 <h3>Dr. William Barber</h3>
 <p>
-Dr. Barber, with his background in <strong>Physics</strong> and a distinguished career in <strong>Medical Imaging and Research</strong>, provided a scientific and mathematical foundation that enhanced my understanding of computational models, data analysis, and data extraction. His extensive industry experience includes serving as <strong>Director of Medical Imaging at Rapiscan Systems</strong>. His engaging teaching style and passion for image processing techniques and pattern recognition concepts inspired me to explore this field further.
+Dr. Barber, with his background in <strong>Physics</strong> and a distinguished career in <strong>Medical Imaging and Research</strong>, provided a scientific and mathematical foundation that enhanced my understanding of computational models, data analysis, and data extraction. His extensive industry experience includes serving as a <strong>Director of Medical Imaging</strong>. His engaging teaching style and passion for image processing techniques and pattern recognition concepts inspired me to explore this field further.
 </p>
 
 <h3>Dr. Michael Soltys</h3>
 <p>
-Dr. Soltys, with his comprehensive background in <strong>Algorithms, Machine Learning, and Cloud Computing</strong>, fostered my interest in pursuing a Computer Vision Capstone Project. As an accomplished author of two books and more than 60 published research papers, and as a Principal Scientist and Software Engineer at GBL Systems Corporation, Dr. Soltys brings a wealth of in-depth knowledge and real-world applications to his teaching. His courses and recommendations proved to be instrumental during the development of my <strong>Convolutional Neural Network (CNN)</strong> Capstone Project.
+Dr. Soltys, with his comprehensive background in <strong>Algorithms, Machine Learning, and Cloud Computing</strong>, fostered my interest in pursuing a Computer Vision Capstone Project. As an accomplished author of two books and more than 60 published research papers, and as a <strong>Principal Scientist and Software Engineer</strong>, Dr. Soltys brings a wealth of in-depth knowledge and real-world applications to his teaching. His courses and recommendations proved to be instrumental during the development of my <strong>Convolutional Neural Network (CNN)</strong> Capstone Project.
 </p>
 
 <h3>Bayne H. Ryan</h3>
