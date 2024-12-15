@@ -64,11 +64,11 @@
           <li>Define Class Weights</li>
           <li>Define CNN Model Architecture</li>
           <li>Weights & Biases</li>
+          <li>Weight Initialization</li>
           <li>Hyperparameters</li>
           <li>Class Confirmation in Training Data</li>
           <li>Profile Memory Usage</li>
           <li>Training Prep</li>
-          <li>Weight Initialization</li>
         </ul>
       </li>
       <li><strong>Training CNN Model</strong>
