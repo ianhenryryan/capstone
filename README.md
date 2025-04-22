@@ -256,7 +256,6 @@ No Guarantee that I will regularly upload things but if I do they would be at on
   - https://linkedin.com/in/ianhenryryan/
 - **Websites:**
   - http://ianhryan.com/
-  - http://swolegreekgod.com/
 - **Kaggle:**
   - https://kaggle.com/ianryan
 - **Hugging Face:**
